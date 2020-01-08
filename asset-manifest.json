@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/GOussama/reactSimpleCrud/static/css/main.487e7ec1.chunk.css",
-    "main.js": "/GOussama/reactSimpleCrud/static/js/main.04d15338.chunk.js",
-    "main.js.map": "/GOussama/reactSimpleCrud/static/js/main.04d15338.chunk.js.map",
-    "runtime-main.js": "/GOussama/reactSimpleCrud/static/js/runtime-main.b8c86b93.js",
-    "runtime-main.js.map": "/GOussama/reactSimpleCrud/static/js/runtime-main.b8c86b93.js.map",
-    "static/js/2.6e137ed8.chunk.js": "/GOussama/reactSimpleCrud/static/js/2.6e137ed8.chunk.js",
-    "static/js/2.6e137ed8.chunk.js.map": "/GOussama/reactSimpleCrud/static/js/2.6e137ed8.chunk.js.map",
-    "index.html": "/GOussama/reactSimpleCrud/index.html",
-    "precache-manifest.1f00b8a7559836e05f9edeee3f5b4c99.js": "/GOussama/reactSimpleCrud/precache-manifest.1f00b8a7559836e05f9edeee3f5b4c99.js",
-    "service-worker.js": "/GOussama/reactSimpleCrud/service-worker.js",
-    "static/css/main.487e7ec1.chunk.css.map": "/GOussama/reactSimpleCrud/static/css/main.487e7ec1.chunk.css.map",
-    "static/js/2.6e137ed8.chunk.js.LICENSE": "/GOussama/reactSimpleCrud/static/js/2.6e137ed8.chunk.js.LICENSE"
+    "main.css": "/reactSimpleCrud/static/css/main.487e7ec1.chunk.css",
+    "main.js": "/reactSimpleCrud/static/js/main.1a94b99b.chunk.js",
+    "main.js.map": "/reactSimpleCrud/static/js/main.1a94b99b.chunk.js.map",
+    "runtime-main.js": "/reactSimpleCrud/static/js/runtime-main.b52455d4.js",
+    "runtime-main.js.map": "/reactSimpleCrud/static/js/runtime-main.b52455d4.js.map",
+    "static/js/2.6e137ed8.chunk.js": "/reactSimpleCrud/static/js/2.6e137ed8.chunk.js",
+    "static/js/2.6e137ed8.chunk.js.map": "/reactSimpleCrud/static/js/2.6e137ed8.chunk.js.map",
+    "index.html": "/reactSimpleCrud/index.html",
+    "precache-manifest.d2d391f9774495d8c75f76f83f4e47ce.js": "/reactSimpleCrud/precache-manifest.d2d391f9774495d8c75f76f83f4e47ce.js",
+    "service-worker.js": "/reactSimpleCrud/service-worker.js",
+    "static/css/main.487e7ec1.chunk.css.map": "/reactSimpleCrud/static/css/main.487e7ec1.chunk.css.map",
+    "static/js/2.6e137ed8.chunk.js.LICENSE": "/reactSimpleCrud/static/js/2.6e137ed8.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.b8c86b93.js",
+    "static/js/runtime-main.b52455d4.js",
     "static/js/2.6e137ed8.chunk.js",
     "static/css/main.487e7ec1.chunk.css",
-    "static/js/main.04d15338.chunk.js"
+    "static/js/main.1a94b99b.chunk.js"
   ]
 }
